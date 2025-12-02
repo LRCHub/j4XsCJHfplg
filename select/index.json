@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "base_track": "栞",
+  "base_artist": "クリープハイプ",
+  "createdAt": "2025-12-02T06:50:03.161625Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "栞",
+      "artist": "Creep Hyp",
+      "has_synced": true,
+      "path": "select/01_栞_Creep_Hyp.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "栞",
+      "artist": "YURiCa/花たん",
+      "has_synced": true,
+      "path": "select/02_栞_YURiCa_花たん.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "栞",
+      "artist": "YURiCa / Hanatan",
+      "has_synced": true,
+      "path": "select/03_栞_YURiCa___Hanatan.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "栞",
+      "artist": "MyGO!!!!!",
+      "has_synced": true,
+      "path": "select/04_栞_MyGO!!!!!.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "栞",
+      "artist": "MyGO!!!!!",
+      "has_synced": false,
+      "path": "select/05_栞_MyGO!!!!!.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "栞",
+      "artist": "まふまふ",
+      "has_synced": true,
+      "path": "select/06_栞_まふまふ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "栞",
+      "artist": "MyGO!!!!!",
+      "has_synced": true,
+      "path": "select/07_栞_MyGO!!!!!.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "栞(しおり)のテーマ",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/08_栞(しおり)のテーマ_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "栞 - Shiori",
+      "artist": "CreepHyp",
+      "has_synced": true,
+      "path": "select/09_栞_-_Shiori_CreepHyp.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "栞(しおり)のテーマ - Shiori no Theme",
+      "artist": "SOUTHERN ALL STARS",
+      "has_synced": true,
+      "path": "select/10_栞(しおり)のテーマ_-_Shiori_no_Theme_SOUTHERN_ALL_STARS.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "栞",
+      "artist": "クリープハイプ",
+      "has_synced": true,
+      "path": "select/11_栞_クリープハイプ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "栞",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": true,
+      "path": "select/12_栞_SEKAI_NO_OWARI.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "栞 - Shiori",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": true,
+      "path": "select/13_栞_-_Shiori_SEKAI_NO_OWARI.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "栞",
+      "artist": "Creep Hyp",
+      "has_synced": true,
+      "path": "select/14_栞_Creep_Hyp.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "栞(しおり)のテーマ",
+      "artist": "サザンオールスターズ",
+      "has_synced": false,
+      "path": "select/15_栞(しおり)のテーマ_サザンオールスターズ.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "栞",
+      "artist": "Lefty Hand Cream",
+      "has_synced": true,
+      "path": "select/16_栞_Lefty_Hand_Cream.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "栞",
+      "artist": "YURiCa／花たん",
+      "has_synced": true,
+      "path": "select/17_栞_YURiCa_花たん.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "栞",
+      "artist": "CreepHyp",
+      "has_synced": false,
+      "path": "select/pl_01_栞_CreepHyp.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "栞",
+      "artist": "CreepHyp",
+      "has_synced": false,
+      "path": "select/pl_02_栞_CreepHyp.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "栞",
+      "artist": "CreepHyp",
+      "has_synced": false,
+      "path": "select/pl_03_栞_CreepHyp.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "栞",
+      "artist": "CreepHyp",
+      "has_synced": false,
+      "path": "select/pl_04_栞_CreepHyp.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "栞",
+      "artist": "CreepHyp",
+      "has_synced": false,
+      "path": "select/pl_05_栞_CreepHyp.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "栞",
+      "artist": "CreepHyp",
+      "has_synced": false,
+      "path": "select/pl_06_栞_CreepHyp.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "栞",
+      "artist": "CreepHyp",
+      "has_synced": false,
+      "path": "select/pl_07_栞_CreepHyp.txt"
+    }
+  ]
+}
